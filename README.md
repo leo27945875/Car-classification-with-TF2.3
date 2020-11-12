@@ -1,7 +1,7 @@
 # Car-classification-with-TF2.3
 
 1. `data_preprocess.ipynb`: 
-   切割訓練集(trainImgPaths.csv)與測試集(validImgPaths.csv)。
+   切割訓練集(`trainImgPaths.csv`)與測試集(`validImgPaths.csv`)。
 
 2. `car_classification.ipynb`: 
    從資料增強、讀取資料、訓練模型的過程。
